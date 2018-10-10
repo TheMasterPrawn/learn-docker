@@ -1,3 +1,3 @@
 # learn-docker
 
-A place to keep my cocker maifests and automation. 
+A place to keep my docker maifests and automation. 
