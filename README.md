@@ -11,3 +11,8 @@ sudo true
 wget -qO- https://get.docker.com/ | sh
 ```
 
+Add your account to the docker group. Unless you want to do sudo every time you need to see the daemon. 
+
+```shell
+sudo usermod -aG docker your-user
+```
